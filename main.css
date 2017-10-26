@@ -1,0 +1,23 @@
+body {
+        background-image: url("wallpaper.jpg");
+}
+
+h1 {
+  font-size: 50px;
+  font-family: 'Monoton', cursive;
+}
+
+p {
+  font-size: 30px;
+  font-family: 'Saira Extra Condensed', sans-serif;
+}
+
+a {
+  font-size: 25px;
+  font-family: 'Oswald', sans-serif;
+}
+
+li {
+  font-size: 25px;
+  font-family: 'Saira Extra Condensed', sans-serif;
+}
